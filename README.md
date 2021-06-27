@@ -1,1 +1,1 @@
-# group10-ferrysim.github.io
+# cse-396-ferrysim.github.io
